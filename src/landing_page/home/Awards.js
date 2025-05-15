@@ -7,7 +7,7 @@ function Awards() {
             <div className='col-6'>
               <img src='../../assets/largestBroker.svg'/>
             </div>
-            <div className='col-6'>
+            <div className='col-6 mt-3'>
               <h1>Largest Broker in India</h1>
               <p>2+ million BrokZero clients contribute to over 15% of all retail order volumes in India daily by trading and investing in :</p>
               <div className='row'>
@@ -26,7 +26,7 @@ function Awards() {
                   </ul>
                 </div>
               </div>
-              <img src='../../assets/pressLogos.png'/>
+              <img src='../../assets/pressLogos.png'style={{width:'90%'}}/>
             </div>
           </div>
         </div>
